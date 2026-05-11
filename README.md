@@ -2,13 +2,13 @@
 
 A modern desktop-based gym management system built using **Java Swing** and **Object-Oriented Programming (OOP)** principles.
 
-The project provides separate dashboards for:
+The system provides separate dashboards for:
 
 - Admin
 - Coach
 - Member
 
-with a modern neon-inspired UI, role-based access, member management, coach assignment, billing, notifications, and reports.
+with a modern neon-inspired interface, role-based access, member management, coach assignment, billing, notifications, and reports.
 
 ---
 
@@ -58,7 +58,7 @@ with a modern neon-inspired UI, role-based access, member management, coach assi
 
 # 🎨 GUI Highlights
 
-- Modern Java Swing UI
+- Built completely using **Java Swing**
 - Custom-painted components
 - Neon gradient design
 - Glassmorphism-inspired cards
@@ -90,7 +90,9 @@ with a modern neon-inspired UI, role-based access, member management, coach assi
 
 # 📁 Data Storage
 
-The system uses text files as a lightweight database simulation:
+The system uses **text files** for data storage instead of a database.
+
+Files used:
 
 - `members.txt`
 - `coaches.txt`
@@ -101,7 +103,7 @@ The system uses text files as a lightweight database simulation:
 
 # 🚀 Future Improvements
 
-- Database integration (MySQL)
+- Database integration
 - JavaFX migration
 - Better analytics dashboard
 - Online payment support
@@ -120,6 +122,8 @@ Developed as a university project for practicing:
 - Real-world Desktop Applications
 
 ---
+
+
 
 <img width="1172" height="741" alt="image" src="https://github.com/user-attachments/assets/0b0c942c-c13c-4e3e-8602-ed9bd61da94c" />
 <img width="1182" height="737" alt="image" src="https://github.com/user-attachments/assets/3c88de7c-f46b-475f-804c-a83f32aad489" />
