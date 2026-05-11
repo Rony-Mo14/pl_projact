@@ -121,6 +121,6 @@ Developed as a university project for practicing:
 
 ---
 
-# 📸 Preview
+<img width="1172" height="741" alt="image" src="https://github.com/user-attachments/assets/0b0c942c-c13c-4e3e-8602-ed9bd61da94c" />
 
-Modern neon-themed gym dashboard built with Java Swing.
+
