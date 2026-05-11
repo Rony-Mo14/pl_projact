@@ -1,124 +1,126 @@
-Health Club Management System 🏋️‍♂️
-A modern desktop-based gym management system built using Java Swing and Object-Oriented Programming (OOP) principles.
+# 🏋️‍♂️ Health Club Management System
+
+A modern desktop-based gym management system built using **Java Swing** and **Object-Oriented Programming (OOP)** principles.
 
 The project provides separate dashboards for:
 
-Admin
-
-Coach
-
-Member
+- Admin
+- Coach
+- Member
 
 with a modern neon-inspired UI, role-based access, member management, coach assignment, billing, notifications, and reports.
 
-✨ Features
-🔐 Authentication System
-Login system with role detection
+---
 
-Separate access for Admin, Coach, and Member
+# ✨ Features
 
-Input validation and error handling
+## 🔐 Authentication System
 
-👤 Member Management
-Add / Update / Delete Members
+- Login system with role detection
+- Separate access for Admin, Coach, and Member
+- Input validation and error handling
 
-Search Members
+---
 
-Subscription tracking
+## 👤 Member Management
 
-Assign coach to members
+- Add / Update / Delete Members
+- Search Members
+- Subscription tracking
+- Assign coaches to members
 
-🏅 Coach Management
-Add / Update / Delete Coaches
+---
 
-Manage workout plans & schedules
+## 🏅 Coach Management
 
-View assigned members
+- Add / Update / Delete Coaches
+- Manage workout plans & schedules
+- View assigned members
+- Send messages to members
 
-Send messages to members
+---
 
-💳 Billing System
-Add billing records
+## 💳 Billing System
 
-Store payment history
+- Add billing records
+- Store payment history
+- Billing management panel
 
-Billing management panel
+---
 
-📊 Reports & Notifications
-Generate reports
+## 📊 Reports & Notifications
 
-Detect expiring subscriptions
+- Generate reports
+- Detect expiring subscriptions
+- Notification alerts for admins and members
 
-Notification alerts for admins and members
+---
 
-🎨 GUI Highlights
-Modern Java Swing UI
+# 🎨 GUI Highlights
 
-Custom-painted components
+- Modern Java Swing UI
+- Custom-painted components
+- Neon gradient design
+- Glassmorphism-inspired cards
+- Styled tables and buttons
+- Dynamic dashboard using `CardLayout`
 
-Neon gradient design
+---
 
-Glassmorphism-inspired cards
+# 🧠 OOP Concepts Used
 
-Styled tables and buttons
+- Inheritance
+- Encapsulation
+- Polymorphism
+- Abstraction
+- Composition
+- Method Overloading
 
-Dynamic dashboard using CardLayout
+---
 
-🧠 OOP Concepts Used
-Inheritance
+# 🛠 Technologies Used
 
-Encapsulation
+- Java
+- Java Swing
+- File Handling
+- OOP
+- Event-Driven Programming
 
-Polymorphism
+---
 
-Abstraction
+# 📁 Data Storage
 
-Composition
-
-Method Overloading
-
-🛠 Technologies Used
-Java
-
-Java Swing
-
-File Handling
-
-OOP
-
-Event-Driven Programming
-
-📁 Data Storage
 The system uses text files as a lightweight database simulation:
 
-members.txt
+- `members.txt`
+- `coaches.txt`
+- `admins.txt`
+- `bills.txt`
 
-coaches.txt
+---
 
-admins.txt
+# 🚀 Future Improvements
 
-bills.txt
+- Database integration (MySQL)
+- JavaFX migration
+- Better analytics dashboard
+- Online payment support
+- Email notifications
 
-🚀 Future Improvements
-Database integration (MySQL)
+---
 
-JavaFX migration
+# 👨‍💻 Team Project
 
-Better analytics dashboard
-
-Online payment support
-
-Email notifications
-
-👨‍💻 Team Project
 Developed as a university project for practicing:
 
-GUI Development
+- GUI Development
+- OOP Design
+- Software Architecture
+- File Handling
+- Real-world Desktop Applications
 
-OOP Design
+---
 
-Software Architecture
+# 📸 Preview
 
-File Handling
-
-Real-world Desktop Applications
+Modern neon-themed gym dashboard built with Java Swing.
