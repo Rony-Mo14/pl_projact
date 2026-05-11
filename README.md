@@ -122,5 +122,15 @@ Developed as a university project for practicing:
 ---
 
 <img width="1172" height="741" alt="image" src="https://github.com/user-attachments/assets/0b0c942c-c13c-4e3e-8602-ed9bd61da94c" />
+<img width="1182" height="737" alt="image" src="https://github.com/user-attachments/assets/3c88de7c-f46b-475f-804c-a83f32aad489" />
+<img width="1178" height="735" alt="image" src="https://github.com/user-attachments/assets/5031760a-4b9f-4f32-a52e-dd5ed502d61a" />
+<img width="1180" height="727" alt="image" src="https://github.com/user-attachments/assets/36a5fc98-40ba-4bdd-8a4e-4ac324bdbe73" />
+<img width="1187" height="741" alt="image" src="https://github.com/user-attachments/assets/e48a769b-06b7-430c-94e9-b62e60aef899" />
+<img width="1182" height="736" alt="image" src="https://github.com/user-attachments/assets/e0df6392-a353-4419-9369-6f55e013a8c5" />
+
+
+
+
+
 
 
